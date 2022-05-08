@@ -1,16 +1,15 @@
-### Hi there 👋
+# Profile - MikuKaneko
 
-<!--
-**MikuKaneko/MikuKaneko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## MY HOBBIES
 
-Here are some ideas to get you started:
+### Music Producer
+Tune Hatsune Miku/Compose/Arrange/Mix/Lyrics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Developer
+Go/Python/CSS/Dart/Javascript/HTML(/PHP/C++)
+
+### Author/Translator:
+[SCP-JP](http://scp-jp.wikidot.com)/[EN](https://scp-wiki.wikidot.com)/[INT](http://scp-int.wikidot.com)/[UN](http://scp-un.wikidot.com)
+
+## Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikuKaneko&layout=compact&theme=radical&count_private=true)
