@@ -1,14 +1,16 @@
 # Profile - MikuKaneko
 
-## MY HOBBIES
+## 趣味 / MY HOBBIES
 
-### Music Producer
+### 音楽プロデューサー / Music Producer
+初音ミクの弄声/作曲/編曲/ミックス/作詞
+
 Tune Hatsune Miku/Compose/Arrange/Mix/Lyrics
 
-### Developer
+### 開発者 / Developer
 Go/Python/CSS/Dart/Javascript/HTML(/PHP/C++)
 
-### Author/Translator:
+### 著者/翻訳者 / Author/Translator:
 [SCP-JP](http://scp-jp.wikidot.com)/[EN](https://scp-wiki.wikidot.com)/[INT](http://scp-int.wikidot.com)/[UN](http://scp-un.wikidot.com)
 
 ## Used Languages
