@@ -11,7 +11,7 @@ Tune Hatsune Miku/Compose/Arrange/Mix/Lyrics
 Go/Python/CSS/Dart/Javascript/HTML(/PHP/C++)
 
 ### 著者/翻訳者 / Author/Translator:
-[SCP-JP](http://scp-jp.wikidot.com)/[EN](https://scp-wiki.wikidot.com)/[INT](http://scp-int.wikidot.com)/[UN](http://scp-un.wikidot.com)
+[SCP-JP](http://scp-jp.wikidot.com)/[EN](https://scp-wiki.wikidot.com)/[INT](http://scp-int.wikidot.com)
 
 ## Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikuKaneko&layout=compact&theme=radical&count_private=true)
