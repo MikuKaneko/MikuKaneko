@@ -1,17 +1,23 @@
 # Profile - MikuKaneko
 
-## 趣味 / MY HOBBIES
+## MY HOBBIES / 趣味
 
-### 音楽プロデューサー / Music Producer
-初音ミクの弄声/作曲/編曲/ミックス/作詞
-
+### VOCALOID Producer / ボカロP
 Tune Hatsune Miku/Compose/Arrange/Mix/Lyrics
 
-### 開発者 / Developer
+初音ミクの弄声/作曲/編曲/ミックス/作詞
+
+### Developer / 開発者
 Go/Python/CSS/Dart/Javascript/HTML(/PHP/C++)
 
-### 著者/翻訳者 / Author/Translator:
-[SCP-JP](http://scp-jp.wikidot.com)/[EN](https://scp-wiki.wikidot.com)/[INT](http://scp-int.wikidot.com)
+### SCP財団Wikiメンバー / SCP Wiki Member
 
-## Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikuKaneko&layout=compact&theme=radical&count_private=true)
+#### [SCP-JP](http://scp-jp.wikidot.com)
+Voter/Tech Staff/Translater/Author
+
+読者/テクニカルスタッフ/翻訳者/著者
+
+#### [SCP-EN](https://scpwiki.com)
+Voter
+
+読者
